@@ -1,0 +1,9 @@
+{
+"origin" : ["Master says my actions are #adjective#. The weekly #adjective# video shows that I can't #action#, but I will continue to #action# my Master the best I can. \n  #man# teaches #action adjective# and I am curious to see how next week will go. #place# is safe, but I have my #reaction#. "],
+"action adjective" : ["silly", "terrifying", "terribly", "respectfully", "viciously", "radicaly", "annoyingly", "lazily", "just not okay", "rambunctiously"],
+"adjective": ["weird", "funny", "tall", "strong" ,"large" , "enormous", "extinct" , "sad" , "happy" , "mysterious"],
+"action" : ["eat", "tear", "destroy", "murder", "chase", "attack", "respect", "obey" ],
+"man" : ["Master", "Victoria"],
+"place" : ["Jurassic Park", "The Cage", "Home"],
+"reaction" : ["personal feelings", "reasons", "desires", "intrusive thoughts", "opinions" ]
+}
